@@ -1,0 +1,22 @@
+/* Estilos para el cuerpo del documento */
+.normal {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para los encabezados */
+.especial {
+    background-color: rgb(59, 8, 8);
+    color: rgb(10, 54, 71);
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+p {
+   text-align: center;
+
+}
+
